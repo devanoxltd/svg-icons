@@ -1,1 +1,6 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M256 80C141.125 80 48 173.125 48 288c0 114.875 93.125 208 208 208s208-93.125 208-208 -93.125-208-208-208Zm124.45 332.45h0c-68.74 68.73-180.17 68.73-248.91 0 -68.74-68.74-68.74-180.17-.01-248.91 68.73-68.74 180.16-68.74 248.9-.01 33 33 51.54 77.77 51.54 124.45v0c.12 46.7-18.44 91.51-51.55 124.45Z"/><path d="M272 160l-32 0 0 135.69 86 68.8 19.99-24.99 -74-59.2 0-120.31Z"/><path d="M15.91 60h184.17v32H15.9Z" transform="rotate(-34.38 108.002 76)"/><path d="M388-16.09h32v184.17h-32.01Z" transform="rotate(-55.619 404.003 76)"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M256,80C141.125,80,48,173.125,48,288s93.125,208,208,208,208-93.125,208-208S370.875,80,256,80ZM380.451,412.451A176,176,0,1,1,432,288,174.849,174.849,0,0,1,380.451,412.451Z" class="ci-primary"/>
+  <polygon fill="var(--ci-primary-color, currentColor)" points="272 160 240 160 240 295.69 326.005 364.494 345.995 339.506 272 280.31 272 160" class="ci-primary"/>
+  <rect width="184.174" height="32.001" x="15.913" y="60" fill="var(--ci-primary-color, currentColor)" class="ci-primary" transform="rotate(-34.38 108.002 76)"/>
+  <rect width="32.001" height="184.174" x="388" y="-16.087" fill="var(--ci-primary-color, currentColor)" class="ci-primary" transform="rotate(-55.619 404.003 76)"/>
+</svg>

@@ -1,1 +1,6 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M144 240h32v32h-32Z"/><path d="M240 240h32v32h-32Z"/><path d="M336 240h32v32h-32Z"/><path d="M464 32H48v0c-17.67.01-31.99 14.33-32 32v288 -.001c.01 17.66 14.33 31.98 32 32h64v112h30.62l112-112h209.373 -.001c17.66-.02 31.98-14.34 32-32v-288 0c-.02-17.67-14.34-31.99-32-32Zm0 320H241.373l-97.38 97.37v-97.38h-96v-288h416Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="32" height="32" x="144" y="240" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="240" y="240" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="336" y="240" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentColor)" d="M464,32H48A32.036,32.036,0,0,0,16,64V352a32.036,32.036,0,0,0,32,32h64V496h30.627l112-112H464a32.036,32.036,0,0,0,32-32V64A32.036,32.036,0,0,0,464,32Zm0,320H241.373L144,449.373V352H48V64H464Z" class="ci-primary"/>
+</svg>

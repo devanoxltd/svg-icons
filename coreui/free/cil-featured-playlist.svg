@@ -1,1 +1,7 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M464 72H48v0c-17.67.01-31.99 14.33-32 32v304 -.001c.01 17.66 14.33 31.98 32 32h416 -.001c17.66-.02 31.98-14.34 32-32v-304 0c-.02-17.67-14.34-31.99-32-32Zm0 336H48V104h416l.02 304Z"/><path d="M232 184h184v32H232Z"/><path d="M176 256h240v32H176Z"/><path d="M176 328h240v32H176Z"/><path d="M88.92 144l0 128.92 99.17-69.42 -99.18-59.51Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M464,72H48a32.036,32.036,0,0,0-32,32V408a32.036,32.036,0,0,0,32,32H464a32.036,32.036,0,0,0,32-32V104A32.036,32.036,0,0,0,464,72Zm0,336H48V104H464l.02,304Z" class="ci-primary"/>
+  <rect width="184" height="32" x="232" y="184" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="240" height="32" x="176" y="256" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="240" height="32" x="176" y="328" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <polygon fill="var(--ci-primary-color, currentColor)" points="88.923 144 88.923 272.923 188.095 203.503 88.923 144" class="ci-primary"/>
+</svg>

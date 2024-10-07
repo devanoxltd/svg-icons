@@ -1,1 +1,8 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M472 40H40v0c-13.25.01-23.99 10.75-24 24v384 0c.01 13.24 10.75 23.98 24 24h432 -.001c13.24-.02 23.98-10.76 24-24V64v0c-.02-13.25-10.76-23.99-24-24Zm-8 400H48V72h416Z"/><path d="M152 240l32 0 0-40 40 0 0-32 -40 0 0-40 -32 0 0 40 -40 0 0 32 40 0 0 40Z"/><path d="M196.284 285.08l-28.29 28.28 -28.29-28.29 -22.63 22.62 28.28 28.28 -28.29 28.28 22.62 22.62 28.28-28.29 28.28 28.28 22.62-22.63 -28.29-28.29 28.28-28.29 -22.63-22.63Z"/><path d="M288 168h112v32H288Z"/><path d="M288 288h112v32H288Z"/><path d="M288 352h112v32H288Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M472,40H40A24.028,24.028,0,0,0,16,64V448a24.028,24.028,0,0,0,24,24H472a24.028,24.028,0,0,0,24-24V64A24.028,24.028,0,0,0,472,40Zm-8,400H48V72H464Z" class="ci-primary"/>
+  <polygon fill="var(--ci-primary-color, currentColor)" points="152 240 184 240 184 200 224 200 224 168 184 168 184 128 152 128 152 168 112 168 112 200 152 200 152 240" class="ci-primary"/>
+  <polygon fill="var(--ci-primary-color, currentColor)" points="196.284 285.089 168 313.373 139.716 285.089 117.089 307.716 145.373 336 117.089 364.284 139.716 386.911 168 358.627 196.284 386.911 218.911 364.284 190.627 336 218.911 307.716 196.284 285.089" class="ci-primary"/>
+  <rect width="112" height="32" x="288" y="168" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="112" height="32" x="288" y="288" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="112" height="32" x="288" y="352" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+</svg>

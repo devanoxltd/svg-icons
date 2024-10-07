@@ -1,1 +1,8 @@
-<svg viewBox="0 0 301 259" xmlns="http://www.w3.org/2000/svg"><path fill="#0DB02B" d="M.5.92h300v257.14H.5Z"/><path fill="#FFF" d="M.5.92h300v171.429H.5Z"/><g fill="#E05206"><path d="M.5.92h300v85.71H.5Z"/><path d="M150.5 93.071a36.429 36.429 0 1 0 0 72.858 36.429 36.429 0 1 0 0-72.858Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="301" height="259" viewBox="0 0 301 259">
+  <g fill="none">
+    <path fill="#0DB02B" d="M.5.928h300v257.143H.5z"/>
+    <path fill="#FFF" d="M.5.928h300v171.429H.5z"/>
+    <path fill="#E05206" d="M.5.928h300v85.714H.5z"/>
+    <circle cx="150.5" cy="129.5" r="36.429" fill="#E05206"/>
+  </g>
+</svg>

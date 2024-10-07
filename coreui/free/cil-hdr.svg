@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M192 104v288h96v0c17.66-.02 31.98-14.34 32-32V136v0c-.02-17.67-14.34-31.99-32-32Zm96 256h-64V136h64Z"/><path d="M160 392l0-288 -32 0 0 128 -64 0 0-128 -32 0 0 288 32 0 0-128 64 0 0 128 32 0Z"/><path d="M480 232v-96 0c-.02-17.67-14.34-31.99-32-32h-96v288h32V264h29.16l26.83 67.08v60.91h32V324.9l-24.37-60.92h.36v0c17.66-.02 31.98-14.34 32-32Zm-96 0v-96h64v96Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M192,104V392h96a32.036,32.036,0,0,0,32-32V136a32.036,32.036,0,0,0-32-32Zm96,256H224V136h64Z" class="ci-primary"/>
+  <polygon fill="var(--ci-primary-color, currentColor)" points="160 392 160 104 128 104 128 232 64 232 64 104 32 104 32 392 64 392 64 264 128 264 128 392 160 392" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentColor)" d="M480,232V136a32.036,32.036,0,0,0-32-32H352V392h32V264h29.167L440,331.081V392h32V324.919L447.632,264H448A32.036,32.036,0,0,0,480,232Zm-96,0V136h64v96Z" class="ci-primary"/>
+</svg>

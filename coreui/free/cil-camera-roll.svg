@@ -1,1 +1,11 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M328 104v0c-.02-17.67-14.34-31.99-32-32h-16V48v0c-.02-17.67-14.34-31.99-32-32H96h0c-17.67.01-31.99 14.33-32 32v24H48v0c-17.67.01-31.99 14.33-32 32v360 -.001c.01 17.66 14.33 31.98 32 32h248 -.001c17.66-.02 31.98-14.34 32-32v-24h168v-304h-168Zm136 64v240H296v56H48V104h48V48h152v56h48v64Z"/><path d="M392 200h40v40h-40Z"/><path d="M320 200h40v40h-40Z"/><path d="M248 200h40v40h-40Z"/><path d="M392 336h40v40h-40Z"/><path d="M320 336h40v40h-40Z"/><path d="M248 336h40v40h-40Z"/><path d="M176 200h40v40h-40Z"/><path d="M176 336h40v40h-40Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M328,104a32.036,32.036,0,0,0-32-32H280V48a32.036,32.036,0,0,0-32-32H96A32.036,32.036,0,0,0,64,48V72H48a32.036,32.036,0,0,0-32,32V464a32.036,32.036,0,0,0,32,32H296a32.036,32.036,0,0,0,32-32V440H496V136H328Zm136,64V408H296v56H48V104H96V48H248v56h48v64Z" class="ci-primary"/>
+  <rect width="40" height="40" x="392" y="200" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="40" height="40" x="320" y="200" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="40" height="40" x="248" y="200" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="40" height="40" x="392" y="336" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="40" height="40" x="320" y="336" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="40" height="40" x="248" y="336" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="40" height="40" x="176" y="200" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="40" height="40" x="176" y="336" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+</svg>

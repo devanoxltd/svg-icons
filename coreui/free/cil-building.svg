@@ -1,1 +1,12 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M440 464V16H72v448H16v32h480v-32Zm-32 0H272v-64h-32v64H104V48h304Z"/><path d="M160 304h32v32h-32Z"/><path d="M240 304h32v32h-32Z"/><path d="M320 304h32v32h-32Z"/><path d="M160 208h32v32h-32Z"/><path d="M240 208h32v32h-32Z"/><path d="M320 208h32v32h-32Z"/><path d="M160 112h32v32h-32Z"/><path d="M240 112h32v32h-32Z"/><path d="M320 112h32v32h-32Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M440,464V16H72V464H16v32H496V464Zm-32,0H272V400H240v64H104V48H408Z" class="ci-primary"/>
+  <rect width="32" height="32" x="160" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="240" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="320" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="160" y="208" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="240" y="208" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="320" y="208" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="160" y="112" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="240" y="112" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="32" x="320" y="112" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+</svg>

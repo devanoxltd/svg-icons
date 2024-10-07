@@ -1,1 +1,18 @@
-<svg viewBox="0 0 301 201" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><mask id="a"><use fill="#FFF" xlink:href="#c"/></mask><mask id="b"><use fill="#FFF" xlink:href="#c"/></mask><path id="c" d="M.5.5h300v200H.5Z"/><path id="d" d="M.5 200.5l300-200"/></defs><path fill="#1EB53A" d="M.5.5h300l-300 200"/><path fill="#00A3DD" d="M.5 200.5h300V.5"/><g stroke="#FCD116" fill-rule="evenodd" stroke-width="70" fill="none"><use mask="url(#a)" xlink:href="#d"/><use mask="url(#b)" stroke="#000" stroke-width="50" xlink:href="#d"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="301" height="201" viewBox="0 0 301 201">
+  <defs>
+    <path id="a" d="M.5.5h300v200H.5z"/>
+    <path id="c" d="M.5.5h300v200H.5z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#1EB53A" fill-rule="nonzero" d="M.5.5h300l-300 200"/>
+    <path fill="#00A3DD" fill-rule="nonzero" d="M.5 200.5h300V.5"/>
+    <mask id="b" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path stroke="#FCD116" stroke-width="70" d="M.5 200.5l300-200" mask="url(#b)"/>
+    <mask id="d" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <path stroke="#000" stroke-width="50" d="M.5 200.5l300-200" mask="url(#d)"/>
+  </g>
+</svg>

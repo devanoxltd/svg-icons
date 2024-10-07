@@ -1,1 +1,6 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M16 360v0 64h64v0c0-35.35-28.66-64-64-64Z"/><path d="M472 80H40v0c-13.25.01-23.99 10.75-24 24v72h32v-64h416v280H264v32h208 -.001c13.24-.02 23.98-10.76 24-24V104v0c-.02-13.25-10.76-23.99-24-24Z"/><path d="M16 216v32c97.04 0 176 78.95 176 176h32c0-114.7-93.309-208-208-208Z"/><path d="M16 288v32 0c57.41.06 103.93 46.58 104 104h32c0-75-61.01-136-136-136Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M16,360h0v64H80A64,64,0,0,0,16,360Z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentColor)" d="M472,80H40a24.028,24.028,0,0,0-24,24v72H48V112H464V392H264v32H472a24.028,24.028,0,0,0,24-24V104A24.028,24.028,0,0,0,472,80Z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentColor)" d="M16,216v32c97.047,0,176,78.953,176,176h32C224,309.309,130.691,216,16,216Z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentColor)" d="M16,288v32A104.118,104.118,0,0,1,120,424h32C152,349.009,90.991,288,16,288Z" class="ci-primary"/>
+</svg>

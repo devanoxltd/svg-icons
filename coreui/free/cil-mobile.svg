@@ -1,1 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M380 16H132v0c-17.67.01-31.99 14.33-32 32v416 -.001c.01 17.66 14.33 31.98 32 32h248 -.001c17.66-.02 31.98-14.34 32-32v-416 0c-.02-17.67-14.34-31.99-32-32Zm0 32v32H132V48Zm0 64l.01 224H131.99V112Zm0 352H132v-96h248.01v96Z"/><path d="M240 400h32v32h-32Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M380,16H132a32.036,32.036,0,0,0-32,32V464a32.036,32.036,0,0,0,32,32H380a32.036,32.036,0,0,0,32-32V48A32.036,32.036,0,0,0,380,16Zm0,32V80H132V48Zm0,64,.011,224H132V112Zm0,352H132V368H380.016l0,96Z" class="ci-primary"/>
+  <rect width="32" height="32" x="240" y="400" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+</svg>

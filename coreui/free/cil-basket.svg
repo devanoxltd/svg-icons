@@ -1,1 +1,7 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M120 304h32v128h-32Z"/><path d="M200 304h32v128h-32Z"/><path d="M280 304h32v128h-32Z"/><path d="M360 304h32v128h-32Z"/><path d="M473.681 168l-79.62-152h-36.13l79.61 152H74.42l79.61-152H117.9L38.28 168H15.96v111.46l42.85 216.53H453.07l42.88-214.416V167.99Zm-9.69 110.41l-37.12 185.58H85.132L47.98 276.322v-4.34h416Zm0-38.42h-416v-40h416Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="32" height="128" x="120" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="128" x="200" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="128" x="280" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <rect width="32" height="128" x="360" y="304" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentColor)" d="M473.681,168,394.062,16H357.938l79.619,152H74.443L154.062,16H117.938L38.319,168H16V279.468L58.856,496H453.117L496,281.584V168ZM464,278.416,426.883,464H85.144L48,276.332V272H464ZM464,240H48V200H464Z" class="ci-primary"/>
+</svg>

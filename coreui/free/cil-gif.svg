@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M64 136v224 -.001c.01 17.66 14.33 31.98 32 32h96v-160h-64v32h32v96H96v-224h96v-32H96l0-.001c-17.67.01-31.99 14.33-32 32Z"/><path d="M240 104h32v288h-32Z"/><path d="M448 136l0-32 -120 0 0 288 32 0 0-128 72 0 0-32 -72 0 0-96 88 0Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="var(--ci-primary-color, currentColor)" d="M64,136V360a32.036,32.036,0,0,0,32,32h96V232H128v32h32v96H96V136h96V104H96A32.036,32.036,0,0,0,64,136Z" class="ci-primary"/>
+  <rect width="32" height="288" x="240" y="104" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <polygon fill="var(--ci-primary-color, currentColor)" points="448 136 448 104 328 104 328 392 360 392 360 264 432 264 432 232 360 232 360 136 448 136" class="ci-primary"/>
+</svg>

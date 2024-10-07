@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><g><path d="M40 19h32v480H40Z"/><path d="M392 499h128V19H392Zm32-448h64v416h-64Z"/><path d="M120 419h37.86l169.36-159.923L159.91 99h-39.93Zm32-283.3l128.77 123.21L151.99 380.5Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="32" height="480" x="40" y="19" fill="var(--ci-primary-color, currentColor)" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentColor)" d="M392,499H520V19H392ZM424,51h64V467H424Z" class="ci-primary"/>
+  <path fill="var(--ci-primary-color, currentColor)" d="M120,419h37.86L327.224,259.077,159.921,99H120Zm32-283.291L280.776,258.924,152,380.522Z" class="ci-primary"/>
+</svg>
