@@ -1,1 +1,15 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g><path d="M15 6H3v2h12V6Z"/><path d="M15 10H3v2h12v-2Z"/><path d="M3 14h8v2H3v-2Z"/><path d="M11.99 15.02l1.41-1.42 2.12 2.12 4.24-4.25 1.41 1.41 -5.66 5.65 -3.54-3.54Z"/></g></svg>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path d="M15 6H3V8H15V6Z" fill="currentColor" />
+  <path d="M15 10H3V12H15V10Z" fill="currentColor" />
+  <path d="M3 14H11V16H3V14Z" fill="currentColor" />
+  <path
+    d="M11.9905 15.025L13.4049 13.6106L15.526 15.7321L19.7687 11.4895L21.1829 12.9037L15.526 18.5606L11.9905 15.025Z"
+    fill="currentColor"
+  />
+</svg>

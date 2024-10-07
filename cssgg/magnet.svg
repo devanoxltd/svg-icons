@@ -1,1 +1,14 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill-opacity=".5"><path d="M8 2.5H4v3h4v-3Z"/><path d="M20 2.5h-4v3h4v-3Z"/></g><path d="M8 7.5H4v6c0 4.41 3.58 8 8 8 4.41 0 8-3.59 8-8v-6h-4v6c0 2.2-1.8 4-4 4 -2.21 0-4-1.8-4-4v-6Z"/></svg>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path d="M8 2.5H4V5.5H8V2.5Z" fill="currentColor" fill-opacity="0.5" />
+  <path d="M20 2.5H16V5.5H20V2.5Z" fill="currentColor" fill-opacity="0.5" />
+  <path
+    d="M8 7.5H4V13.5C4 17.9183 7.58172 21.5 12 21.5C16.4183 21.5 20 17.9183 20 13.5V7.5H16V13.5C16 15.7091 14.2091 17.5 12 17.5C9.79086 17.5 8 15.7091 8 13.5V7.5Z"
+    fill="currentColor"
+  />
+</svg>

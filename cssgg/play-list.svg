@@ -1,1 +1,12 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g><path d="M16 5H4v2h12V5Z"/><path d="M16 9H4v2h12V9Z"/><path d="M4 13h8v2H4v-2Z"/><path d="M20 16l-6-3v6l6-3Z"/></g></svg>
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <path d="M16 5H4V7H16V5Z" fill="currentColor" />
+  <path d="M16 9H4V11H16V9Z" fill="currentColor" />
+  <path d="M4 13H12V15H4V13Z" fill="currentColor" />
+  <path d="M20 16L14 13V19L20 16Z" fill="currentColor" />
+</svg>
