@@ -1,1 +1,8 @@
-<svg viewBox="0 0 256 118" xmlns="http://www.w3.org/2000/svg"><path fill="#77C1D2" d="M199.11 0l56.88 56.63 -56.89 56.63 -56.89-56.64Z"/><path fill="#2D3441" d="M56.88 0l117.93 117.42 -113.78 0L-.02 56.63Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="118px" viewBox="0 0 256 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+	<title>Alpine.js</title>
+    <g>
+				<polygon fill="#77C1D2" points="199.111112 0 256 56.6393762 199.111112 113.278752 142.222222 56.6393762"></polygon>
+				<polygon fill="#2D3441" points="56.8888888 0 174.826667 117.420507 61.0488889 117.420507 0 56.6393762"></polygon>
+    </g>
+</svg>

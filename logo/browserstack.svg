@@ -1,1 +1,22 @@
-<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><radialGradient id="a" fr="0%" fx="50.14%" fy="50.003%" cx="50.14%" cy="50.003%" r="50.118%"><stop offset="0%" stop-color="#797979"/><stop offset="100%" stop-color="#4C4C4C"/></radialGradient><path id="b" d="M129.33 60.06a44.76 44.76 0 1 0 0 89.53 44.76 44.76 0 1 0 0-89.54Z"/></defs><path fill="#F5BB60" d="M127.94 1.2a127.39 127.39 0 1 0 0 254.79 127.39 127.39 0 1 0 0-254.8Z"/><path fill="#E86F32" d="M114.96.93a114.68 114.68 0 1 0 0 229.36 114.68 114.68 0 1 0 0-229.37Z"/><path fill="#E53D42" d="M130.16.93a99.48 99.48 0 1 0 0 198.97 99.48 99.48 0 1 0 0-198.98Z"/><path fill="#BFD141" d="M138.17 16.95a91.47 91.47 0 1 0 0 182.94 91.47 91.47 0 1 0 0-182.95Z"/><path fill="#6DB64C" d="M131.54 30.22a84.83 84.83 0 1 0 0 169.67 84.83 84.83 0 1 0 0-169.68Z"/><path fill="#AFDBE7" d="M118 30.49a71.29 71.29 0 1 0 0 142.59 71.29 71.29 0 1 0 0-142.6Z"/><path fill="#57BADF" d="M129.6 30.22a59.69 59.69 0 1 0 0 119.38 59.69 59.69 0 1 0 0-119.39Z"/><path fill="#02B2D6" d="M137.06 44.86a52.5 52.5 0 1 0 0 105.01 52.5 52.5 0 1 0 0-105.02Z"/><use fill="url(#a)" xlink:href="#b"/><use fill="#231F20" xlink:href="#b"/><path fill="#FFF" d="M141.08 98.97c4.43 1.99 10.55-2.02 13.67-8.96 3.11-6.94 2.03-14.18-2.41-16.17 -4.44-2-10.56 2.01-13.68 8.95 -3.12 6.93-2.04 14.17 2.4 16.16v0Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <radialGradient cx="50.1407407%" cy="50.0030864%" fx="50.1407407%" fy="50.0030864%" r="50.1188272%" id="radialGradient-1">
+            <stop stop-color="#797979" offset="0%"></stop>
+            <stop stop-color="#4C4C4C" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+	<g>
+		<circle fill="#F5BB60" cx="127.949264" cy="128.603432" r="127.396568"></circle>
+		<circle fill="#E86F32" cx="114.960894" cy="115.615062" r="114.684546"></circle>
+		<circle fill="#E53D42" cx="130.160051" cy="100.415906" r="99.485389"></circle>
+		<circle fill="#BFD141" cx="138.174151" cy="108.430006" r="91.4712882"></circle>
+		<circle fill="#6DB64C" cx="131.541792" cy="115.062366" r="84.8389289"></circle>
+		<circle fill="#AFDBE7" cx="118.000725" cy="101.797647" r="71.2978621"></circle>
+		<circle fill="#57BADF" cx="129.607354" cy="89.91467" r="59.6912334"></circle>
+		<circle fill="#02B2D6" cx="137.068758" cy="97.3760742" r="52.5061775"></circle>
+		<circle fill="url(#radialGradient-1)" cx="129.331006" cy="104.837478" r="44.768425"></circle>
+		<circle fill="#231F20" cx="129.331006" cy="104.837478" r="44.768425"></circle>
+		<path d="M141.088096,98.9711966 C145.526792,100.962869 151.64783,96.9551361 154.759818,90.0196748 C157.871806,83.0842136 156.796297,75.847342 152.357602,73.8556697 C147.918907,71.8639974 141.797868,75.8717302 138.68588,82.8071914 C135.573892,89.7426526 136.649401,96.9795243 141.088096,98.9711966 L141.088096,98.9711966 Z" fill="#FFFFFF"></path>
+	</g>
+</svg>

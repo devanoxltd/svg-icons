@@ -1,1 +1,13 @@
-<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><path fill="#5FB4CB" d="M128 135.02L7.02 255.99l241.95 0Z"/><path fill="#EEA400" d="M202.33 195.31l53.66 53.66 0-107.34Z"/><path fill="#596277" d="M120.97 128L-.01 7.02l0 241.95Z"/><path fill="#5FB4CB" d="M256 113.8L256-.01l-113.81 0Z"/><g fill="#8CD636"><path d="M195.58 67.43l60.28 60.28 -60.57 60.56L135 127.98Z"/><path d="M7.02 0l55.72 55.72 121.12 0L128.13-.01Z"/></g><path fill="#EEA400" d="M128 120.97l55.32-55.33 -110.65 0Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <title>Elm</title>
+	<g>
+		<polygon fill="#5FB4CB" points="128 135.022029 7.02282105 256 248.977971 256"></polygon>
+		<polygon fill="#EEA400" points="202.332313 195.311075 256 248.979554 256 141.643388"></polygon>
+		<polygon fill="#596277" points="120.977971 128 0 7.02202921 0 248.979554"></polygon>
+		<polygon fill="#5FB4CB" points="256 113.806284 256 0 142.192924 0"></polygon>
+		<polygon fill="#8CD636" points="195.583504 67.4342159 255.872312 127.723024 195.308589 188.286748 135.01978 127.99794"></polygon>
+		<polygon fill="#8CD636" points="7.02123737 0 62.7461228 55.7256772 183.875335 55.7256772 128.149658 0"></polygon>
+		<polygon fill="#EEA400" points="128 120.978763 183.321839 65.6561315 72.6773689 65.6561315"></polygon>
+	</g>
+</svg>

@@ -1,1 +1,9 @@
-<svg viewBox="0 0 256 171" xmlns="http://www.w3.org/2000/svg"><g fill="#30F2A2"><path d="M0 0l85.33 41.81 0 85.33L-.01 85.32Z"/><path d="M171.52 0L256 41.81l-84.48 43.52Z"/></g><g fill="#14CC80"><path d="M171.52 0L85.33 41.81l0 85.33 86.18-41.82Z"/><path d="M256 41.81l-84.48 43.52 0 85.33L256 127.14Z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="171px" viewBox="0 0 256 171" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <g>
+				<polygon fill="#30F2A2" points="0 0 85.3333333 41.8133333 85.3333333 127.146667 0 85.3333333"></polygon>
+				<polygon fill="#30F2A2" points="171.52 7.10542736e-15 256 41.8133333 171.52 85.3333333"></polygon>
+				<polygon fill="#14CC80" points="171.52 0 85.3333333 41.8133333 85.3333333 127.146667 171.52 85.3333333"></polygon>
+				<polygon fill="#14CC80" points="256 41.8133333 171.52 85.3333333 171.52 170.666667 256 127.146667"></polygon>
+		</g>
+</svg>

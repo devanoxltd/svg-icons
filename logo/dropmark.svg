@@ -1,1 +1,12 @@
-<svg viewBox="0 0 256 348" xmlns="http://www.w3.org/2000/svg"><path fill="#38DEDF" d="M128 0C128 0 0 91.06 0 219.06c0 70.7 57.29 128 128 128 70.7 0 128-57.3 128-128C256 91.06 128-.01 128-.01Zm0 293.31v0l-68.68-79.06h30.6v-90.31h76.14v90.3h30.6l-68.68 79.05Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="348px" viewBox="0 0 256 348" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <path d="M128,0 C128,0 0,91.0671937 0,219.067194 C0,289.770751 57.2964427,347.067194 128,347.067194 C198.703557,347.067194 256,289.770751 256,219.067194 C256,91.0671937 128,0 128,0 Z M128,293.312253 L128,293.312253 L59.3201581,214.26087 L89.9288538,214.26087 L89.9288538,123.952569 L166.071146,123.952569 L166.071146,214.26087 L196.679842,214.26087 L128,293.312253 Z" id="path-1"></path>
+    </defs>
+    <g>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use fill="#38DEDF" xlink:href="#path-1"></use>
+    </g>
+</svg>
