@@ -1,1 +1,10 @@
-<svg viewBox="0 0 256 220" xmlns="http://www.w3.org/2000/svg"><path fill="#7957FF" d="M146.28 152.38l73.14-51.41 -73.15 0Z"/><path fill="#1B7CE2" d="M90 84.11L51.8 141.2l-3.05 4.87 -.21 0L-.02 219.41l0-219.43Z"/><path fill="#7957FF" d="M219.42 48.76l-73.15 0 0-48.77 109.71 0Z"/><path fill="#F845C6" d="M146.28 0l0 219.42 -97.53-73.35 3.04-4.88 38.19-57.1Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="220px" viewBox="0 0 256 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>MockFlow</title>
+    <g>
+        <polygon fill="#7957FF" points="146.285714 152.380952 219.428571 100.977778 146.285714 100.977778"></polygon>
+        <polygon fill="#1B7CE2" points="90.0063492 84.1142857 51.8095238 141.206349 48.7619048 146.08254 48.5587302 146.08254 0 219.428571 0 0"></polygon>
+        <polygon fill="#7957FF" points="219.428571 48.7619048 146.285714 48.7619048 146.285714 -3.60910596e-15 256 -3.60910596e-15"></polygon>
+        <polygon fill="#F845C6" points="146.285714 0 146.285714 219.428571 48.7619048 146.08254 51.8095238 141.206349 90.0063492 84.1142857"></polygon>
+    </g>
+</svg>
