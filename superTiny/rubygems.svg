@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect width="512" height="512" rx="76.8" fill="#FFF"/><g fill="#D6422B"><path d="M301 303.3l65.4-65.4 -45.8-45.9v-.2H190.5l.2.4 -.2-.2 -45 45.9L256 348"/><path d="M256 69.7L94 162.6v185.9l162 93 162-92.9V162.7Zm131 261.1l-131 75.6 -131-75.6V180l131-75.6 131 75"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Ruby Gems" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path d="m366 238-46-46H190l-45 46 111 110m0-278-162 93v186l162 93 162-93V163zm0 337-131-76V180l131-76 131 75v152" fill="#d6422b"/></svg>

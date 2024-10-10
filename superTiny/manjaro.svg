@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect width="512" height="512" rx="76.8" fill="#FFF"/><g fill="#4DB05E"><path d="M301 192l0-90 -199 0 0 308 90 0 0-218 109 0Z"/><path d="M211 211h90v199h-90Z"/><path d="M320 102h90v308h-90Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Manjaro" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path fill="#4db05e" d="m102 102V410h90V192h109V102h19V410H211V211h90V410H410V102"/></svg>

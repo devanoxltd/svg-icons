@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><defs><radialGradient id="a" fr="0%" fx="725%" fy="400%" cx="725%" cy="400%" r="773%"><stop offset="97.5%" stop-color="#9CFD65"/><stop offset="97.5%" stop-color="#34DB96"/><stop offset="100%" stop-color="#34DB96"/><stop offset="100%" stop-color="#1B92B1"/></radialGradient></defs><rect width="512" height="512" rx="76.8" fill="#FFF"/><path stroke="url(#a)" stroke-miterlimit="0" d="M71.1 276.1H291L181 86Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Lucky Framework" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><radialGradient id="a" cx="7.25" cy="4" r="7.73"><stop offset=".975" stop-color="#9cfd65"/><stop offset=".975" stop-color="#34db96"/><stop offset="1" stop-color="#34db96"/><stop offset="1" stop-color="#1b92b1"/></radialGradient><path stroke="url(#a)" stroke-linejoin="round" stroke-width="150" d="M146.1 351.1H366L256 161z"/></svg>

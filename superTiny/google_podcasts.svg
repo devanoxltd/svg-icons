@@ -1,1 +1,6 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect width="512" height="512" rx="76.8" fill="#FFF"/><g stroke-linecap="round" stroke-width="43" stroke="#FAB908" stroke-linejoin="round"><path d="M256 109v22Zm0 86v122m0 64v22Z"/><path stroke="#EA4335" d="M181 176v75Zm0 139v21Z"/><path stroke="#34A853" d="M331 176v21Zm0 85v75Z"/><path stroke="#4285F4" d="M405 245v22"/><path stroke="#0066D9" d="M107 245v22"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Google Podcasts" role="img"
+stroke-linecap="round" stroke-linejoin="round" stroke-width="43"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path stroke="#fab908" d="m256 109v22m0 64v122m0 64v22"/><path stroke="#ea4335" d="m181 176v75m0 64v21"/><path stroke="#34a853" d="m331 176v21m0 64v75"/><path stroke="#4285f4" d="m405 245v22"/><path stroke="#0066d9" d="m107 245v22"/></svg>

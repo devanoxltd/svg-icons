@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M193 140a53 53 0 1 0 0 106 53 53 0 1 0 0-106Z" id="a"/></defs><rect width="512" height="512" rx="76.8" fill="#FFF"/><path fill="#F22F46" d="M256 0a256 256 0 1 0 0 512 256 256 0 1 0 0-512Z"/><path fill="#FFF" d="M256 68a188 188 0 1 0 0 376 188 188 0 1 0 0-376Z"/><g fill="#F22F46"><use xlink:href="#a"/><use xlink:href="#a" x="126" y="0"/><use xlink:href="#a" x="0" y="126"/><use xlink:href="#a" x="126" y="126"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Twilio" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path fill="#f22f46" d="m255 64a192 192 0 102 0m0 51a141 141 0 11-2 0m-46.8 54a39.7 39.7 0 101 0h93.6a39.7 39.7 0 101 0m-95.6 94.5a39.7 39.7 0 101 0h93.6a39.7 39.7 0 101 0"/></svg>

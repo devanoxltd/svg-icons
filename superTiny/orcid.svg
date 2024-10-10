@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect width="512" height="512" rx="76.8" fill="#FFF"/><path fill="#A6CE39" d="M256 0a256 256 0 1 0 0 512 256 256 0 1 0 0-512Z"/><path fill="#FFF" d="M173 372h-31V158h31Zm45-214h83c79 0 114 57 114 107 0 55-43 107-114 107h-84Zm31 187h49c70 0 86-53 86-79 0-43-27-79-87-79h-47Zm-71-231c0 11-9 20-20 20s-20-9-20-20v0c0-11.05 8.95-20 20-20 11 0 20 9 20 20Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Orcid" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><circle cx="256" cy="256" r="192" fill="#a6ce39"/><path d="m167 148a15 15 0 110 2m3 33V343h23V183m34 0h63c115 0 112 160 0 160h-63m23-20h38c83 0 88-120-2-120h-36" fill="#fff"/></svg>

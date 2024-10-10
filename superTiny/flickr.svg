@@ -1,1 +1,7 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect width="512" height="512" rx="76.8" fill="#FFF"/><path fill="#0063DC" d="M157 177a79 79 0 1 0 0 158 79 79 0 1 0 0-158Z"/><path fill="#FF0084" d="M355 177a79 79 0 1 0 0 158 79 79 0 1 0 0-158Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Flickr" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><circle
+cx="157" cy="256" fill="#0063dc" r="79"/><circle
+cx="355" cy="256" fill="#ff0084" r="79"/></svg>

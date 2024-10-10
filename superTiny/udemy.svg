@@ -1,1 +1,5 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect width="512" height="512" rx="76.8" fill="#FFF"/><path fill="#A435F0" d="M256 121.5l-94.5 57v-57l94.5-57 94.5 57v57Z"/><path d="M161.5 226.5H211V352v0c0 27.06 20.14 49 45 49 24.85 0 45-21.94 45-49V226.5h49.5V356v0c0 50.53-42.31 91.5-94.5 91.5 -52.2 0-94.5-40.97-94.5-91.5Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Udemy" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path fill="#a435f0" d="m256 121.5-94.5 57v-57l94.5-57 94.5 57v57z"/><path d="M161.5 226.5H211V352a45 49 0 0090 0V226.5h49.5V356a94.5 91.5 0 01-189 0z"/></svg>
